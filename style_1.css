@@ -226,3 +226,83 @@
     background-color: rgb(134, 74, 203);
     color: white;
 }
+.nav4{
+    margin-left: 50rem;
+    /* background-color: rgb(195, 184, 216); */
+    height: auto;
+    width: auto;
+}
+.top4{
+    margin-left: 9rem;
+    color: rgb(74, 18, 185);
+}
+.box1{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+    
+}
+.box2{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.box3{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.box4{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.box5{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.box6{
+    padding: 0.9rem;
+    height: 5rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    color: rgb(74, 18, 185);
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.boxes4{
+    display: flex;
+    flex-wrap: wrap;
+    width: 110rem;
+    height: 30rem;
+    background-color: rgb(195, 184, 216);
+}
+.img4{
+    background-color: 1px solid black;
+    height: 1rem;
+    width: 10rem;
+}
+.down4{
+    color: rgb(87, 84, 84);
+}
