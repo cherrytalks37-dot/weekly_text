@@ -226,6 +226,47 @@
     background-color: rgb(134, 74, 203);
     color: white;
 }
+
+
+.start{
+    text-align: center;
+    margin-right: 9px;
+    
+}
+.st {
+    margin-bottom: 5px;
+    margin-left: 38%;
+}
+.boxes5{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid;
+    height: 30rem;
+    width: 80%;
+  
+   justify-content: space-around;
+}
+.box5{
+    height: 6rem;
+    border: 1px solid;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+.picture5{
+    height: 80%;
+    width: 30%;
+    border: 1px solid;
+}
+.content5{
+    border: 1px solid;
+    text-align: center;
+    height: 80%;
+    width: 70%;
+}
+.i5{
+    height: 80px;
+    width: 80px;
 .nav4{
     margin-left: 50rem;
     /* background-color: rgb(195, 184, 216); */
