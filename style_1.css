@@ -68,3 +68,161 @@
     background-color: rgb(244 244 244);
     color: rgb(0, 0, 54);
 }
+.boundary2{
+    border: 1px solid black;
+    height: 98.5vh;
+    width: 99vw;
+}
+.top2{
+    /* border: 1px solid black; */
+    height: 25%;
+    width: 80%;
+    margin: auto;
+}
+.heading2{
+    /* border: 1px solid black; */
+    margin: auto;
+    height: 22%;
+    width: 22%;
+    font-size: 240%;
+    padding-top: 1%;
+}
+.content2{
+    /* border: 1px solid black; */
+    height: 60%;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.box2{
+    border: 1px solid black;
+    height: 50%;
+    width: 22%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.text2{
+    /* border: 1px solid black; */
+    height: 80%;
+    width: 65%;
+    color: grey;
+}
+.image2{
+    /* border: 1px solid black; */
+    height: 80%;
+    width: 20%;
+    background-image: url("logo2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x:5% ;
+}
+.button-holder2{
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.button2{
+    border: 0.5px solid black;
+    height: 50%;
+    width: 40%;
+    border-radius: 10px;
+    font-size: 70%;
+    padding-left: 2%;
+    padding-top: 2%;
+    color: white;
+}
+.bottom2{
+    /* border: 1px solid black; */
+    height: 70%;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -3%;
+    background-color: rgb(239, 241, 243);
+}
+.course2{
+    /* border: 1px solid black; */
+    width: 23%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: white;
+}
+.upper2{
+    /* border: 1px solid black; */
+    height: 32%;
+    width: 90%;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 10px;
+    background-image: url("weekly2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.lower2{
+    /* border: 1px solid black; */
+    height: 60%;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+.header2{
+    /* border: 1px solid black; */
+    height: 12%;
+    width: 75%;
+    font-size: 140%;
+    padding-left: 2%;
+}
+.description2{
+    /* border: 1px solid black; */
+    height: 40%;
+    width: 100%;
+    margin-top: 2%;
+    color: grey;
+}
+.jee2{
+    /* border: 1px solid black; */
+    height: 10%;
+    width: 40%;
+    margin-top: 2%;
+}
+.bar2{
+    /* border: 1px solid black; */
+    height: 13%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.enroll2{
+    /* border: 1px solid black; */
+    height: 70%;
+    width: 35%;
+    margin-top: 3%;
+}
+.know2{
+    /* border: 1px solid black; */
+    height: 100%;
+    width: 35%;
+    margin-top: 3%;
+    border-radius:10px ;
+    padding-top: 4%;
+    padding-left: 4%;
+    background-color: rgb(134, 74, 203);
+    color: white;
+}
