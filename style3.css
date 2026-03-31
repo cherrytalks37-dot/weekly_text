@@ -1,0 +1,84 @@
+
+.header3{
+    margin-left: 25%;
+}
+.text3{
+    width: 90%;
+    text-align: center;
+    margin-left: 4%;
+}
+.why3{
+    margin-left: 8%;
+    float: left;
+}
+.mincontainer3{
+    margin-top: 6%;
+}
+.W3{
+    color: rgb(243, 211, 3);
+}
+.list3{
+    float: right;
+    /* border: 1px solid ; */
+    height: 25rem;
+    width: 50%;
+    margin-right: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+.a3{
+    /* border: 1px solid; */
+    width: 45%;
+    height: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img3{
+    /* border: 1px solid; */
+    width: 30%;
+    height: 4em;
+}
+.t3{
+    width: 50%;
+}
+.i3{
+    float: left;
+    /* height: ; */
+    margin-top: 25% ;
+    margin-left: 12%;
+}
+.b3{
+    float: right;
+    height: 15em;
+    /* border: 1px solid; */
+    width: 40%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 4%;
+}
+.stream3{
+    height: 7rem;
+    border: 1px solid;
+    width: 40%;
+}
+.s3{
+    border: 1px solid;
+    height: 3rem;
+    text-align: center;
+    font-size: xx-large;
+    background-color:  rgb(243, 211, 3);;
+    border-radius: 5px;
+}
+.disha3{
+    text-align: center;
+}
+.c3{
+    text-align: center;
+}
+.x3{
+    font-size: xx-large;
+}
